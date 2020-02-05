@@ -1,0 +1,24 @@
+{
+  "name": "angularpoc-backend",
+  "version": "1.0.0",
+  "description": "A backend nodejs project for AngularPOC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kekinc/AngularPOC-backend.git"
+  },
+  "author": "Kekin Chheda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kekinc/AngularPOC-backend/issues"
+  },
+  "homepage": "https://github.com/kekinc/AngularPOC-backend#readme",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
+}

@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "name": "men",
+            "subcategories": [
+                {
+                    "name": "topwear"
+                },
+                {
+                    "name": "bottomwear"
+                },
+                {
+                    "name": "footwear"
+                },
+                {
+                    "name": "accessories"
+                }
+            ]
+        },
+        {
+            "name": "women",
+            "subcategories": [
+                {
+                    "name": "topwear"
+                },
+                {
+                    "name": "bottomwear"
+                },
+                {
+                    "name": "footwear"
+                },
+                {
+                    "name": "accessories"
+                }
+            ]
+        }
+    ]
+}

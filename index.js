@@ -10,6 +10,12 @@ const getCategories = ()=>{
 
 app.use(express.json());
 
+app.use((req,res,next)=>{
+    console.log('Requester Url:', req);
+    res.setHeader('Access-Control-Allow-Origin',['*']);
+    next();
+});
+
 
 app.get('/',(req,res)=>{
     res.send('Local node server listening on port 3000!!');

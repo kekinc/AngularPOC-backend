@@ -19,7 +19,7 @@
   "dependencies": {
     "blockchain.info": "^2.12.1",
     "bluebird": "^3.7.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "nodemon": "^2.0.2"
   }
 }
